@@ -1,0 +1,4 @@
+message PingPong {
+  required string action = 1;
+  required string name = 2;
+}
